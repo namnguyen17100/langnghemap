@@ -1,6 +1,0 @@
-{
-  "name": "Làng Nghề Map - Bản Đồ Di Sản Số",
-  "description": "Bản đồ số khám phá và lưu trữ giá trị di sản làng nghề thủ công truyền thống Việt Nam.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
